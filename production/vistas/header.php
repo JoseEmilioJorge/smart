@@ -55,8 +55,8 @@ header ("Location: login.php");
     <!-- NProgress -->
     <script src="../vendors/nprogress/nprogress.js"></script>
     <!-- Chart.js -->
-    <script src="../vendors/Chart.js/dist/Chart.js"></script>
-    <script src="../vendors/Chart.js/dist/Chart.bundle.js"></script>
+    <script src="../vendors/charts-js/dist/Chart.js"></script>
+    <script src="../vendors/charts-js/dist/Chart.bundle.js"></script>
 
     <!-- morris.js -->
     <script src="../vendors/raphael/raphael.min.js"></script>
